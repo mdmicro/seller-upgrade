@@ -85,12 +85,12 @@ PRO стоит **2 500 ₽ разово**, без ежемесячной под�
 
 - [Последний релиз](https://github.com/mdmicro/seller-upgrade/releases/latest) · [Все версии и теги](https://github.com/mdmicro/seller-upgrade/tags)
 - [Руководство пользователя](docs/user_guide.md) — подробный разбор всех разделов
-- [Заметки к релизу 1.41.0](docs/releases/v1.41.0.md) — состав версии и контрольная сумма
+- [Заметки к релизу 1.41.1](docs/releases/v1.41.1.md) — состав версии и контрольная сумма
 
 ## Проверка подписи сборки
 
 ```powershell
-Get-FileHash .\Seller_upgrade_1.41.0.exe -Algorithm SHA256
+Get-FileHash .\Seller_upgrade_1.41.1.exe -Algorithm SHA256
 ```
 
-Сверьте результат с хешем в [заметках релиза](docs/releases/v1.41.0.md).
+Сверьте результат с хешем в [заметках релиза](docs/releases/v1.41.1.md).
